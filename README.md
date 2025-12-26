@@ -20,7 +20,7 @@ Bu klasör, Discord moderasyon botumuzun çeşitli özelliklerini gösteren ekra
 
 Botun genel ayarlarını yönetebileceğiniz ana kontrol paneli. Yaş sistemi, level sistemi ve otomatik tag tarama gibi özellikleri buradan açıp kapatabilirsiniz.
 
-![Ayar Paneli](ayar.png)
+![Ayar Paneli](BotGörseller/ayar.png)
 
 **Özellikler:**
 - Yaş Sistemi Kontrolü
@@ -34,7 +34,7 @@ Botun genel ayarlarını yönetebileceğiniz ana kontrol paneli. Yaş sistemi, l
 
 Sunucunuzu boost eden özel üyeler için tasarlanmış panel. Boosterler bu panel üzerinden isimlerini değiştirebilir ve özel ayrıcalıklardan yararlanabilir.
 
-![Booster Paneli](boosterpanel.png)
+![Booster Paneli](BotGörseller/boosterpanel.png)
 
 **Özellikler:**
 - İsim Değiştirme
@@ -48,7 +48,7 @@ Sunucunuzu boost eden özel üyeler için tasarlanmış panel. Boosterler bu pan
 
 Botun tüm işlevlerini tek yerden yönetebileceğiniz kapsamlı kontrol merkezi. Moderasyon, eğlence ve yönetim komutlarına hızlı erişim sağlar.
 
-![Bot Paneli](botpanel.png)
+![Bot Paneli](BotGörseller/botpanel.png)
 
 **Özellikler:**
 - Komut Kategorileri
@@ -62,7 +62,7 @@ Botun tüm işlevlerini tek yerden yönetebileceğiniz kapsamlı kontrol merkezi
 
 Sunucunuzda adil bir ceza sistemi kurmak için geliştirilmiş puan tabanlı ceza yönetimi. Her ihlal türü için özel puanlar belirleyebilirsiniz.
 
-![Ceza Puan Ayarlama](cezapuanayarla.png)
+![Ceza Puan Ayarlama](BotGörseller/cezapuanayarla.png)
 
 **Özellikler:**
 - Puan Tabanlı Sistem
@@ -76,7 +76,7 @@ Sunucunuzda adil bir ceza sistemi kurmak için geliştirilmiş puan tabanlı cez
 
 Sohbet kanallarınızı zararlı içeriklerden koruyan gelişmiş filtreleme sistemi. Spam, küfür, reklam ve diğer istenmeyen içerikleri otomatik olarak engeller.
 
-![Chat Guard](chatguard.png)
+![Chat Guard](BotGörseller/chatguard.png)
 
 **Özellikler:**
 - Küfür Filtresi
@@ -91,7 +91,7 @@ Sohbet kanallarınızı zararlı içeriklerden koruyan gelişmiş filtreleme sis
 
 Sunucunuzu kötü niyetli saldırılardan koruyan kapsamlı güvenlik sistemi. Raid koruması, bot koruması ve yetkisiz işlemleri engeller.
 
-![Koruma Sistemi](protection.png)
+![Koruma Sistemi](BotGörseller/protection.png)
 
 **Özellikler:**
 - Raid Koruması
@@ -106,7 +106,7 @@ Sunucunuzu kötü niyetli saldırılardan koruyan kapsamlı güvenlik sistemi. R
 
 Sunucunuz için otomatik rol sistemi kurar. Renk rolleri, oyun rolleri, burç rolleri ve daha fazlasını tek tıkla oluşturabilirsiniz.
 
-![Rol Kurulum](rolkurulum.png)
+![Rol Kurulum](BotGörseller/rolkurulum.png)
 
 **Özellikler:**
 - Renk Rolleri (16 farklı renk)
@@ -122,7 +122,7 @@ Sunucunuz için otomatik rol sistemi kurar. Renk rolleri, oyun rolleri, burç ro
 
 Botun tüm özelliklerini ilk kurulum için tasarlanmış kapsamlı kurulum sihirbazı. Adım adım rehberlik ile botunuzu kolayca yapılandırın.
 
-![Setup Paneli](setup.png)
+![Setup Paneli](BotGörseller/setup.png)
 
 **Özellikler:**
 - Adım Adım Kurulum
@@ -136,7 +136,7 @@ Botun tüm özelliklerini ilk kurulum için tasarlanmış kapsamlı kurulum sihi
 
 Yayıncılar için özel olarak tasarlanmış panel. Yayın duyuruları, streamer rolleri ve yayın istatistiklerini yönetebilirsiniz.
 
-![Streamer Paneli](streamerpanel.png)
+![Streamer Paneli](BotGörseller/streamerpanel.png)
 
 **Özellikler:**
 - Yayın Duyuruları
@@ -167,6 +167,5 @@ Bu bot, Discord sunucunuz için kapsamlı bir moderasyon ve yönetim çözümü 
 - Eğitim kurumları
 
 ---
-
 
 *Bu bot, Discord sunucularında düzen ve güvenliği sağlamak amacıyla geliştirilmiştir. Tüm özellikler Discord'un hizmet şartlarına uygun olarak tasarlanmıştır.*
